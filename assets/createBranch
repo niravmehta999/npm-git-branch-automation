@@ -2,6 +2,12 @@
 
 set -ex
 
-pwd;
+BRANCH="$1"
 
-git checkout -b develop;
+git checkout master;
+
+echo "Creating your branch from master";
+
+git checkout -b $BRANCH;
+
+echo "Branch Created";
