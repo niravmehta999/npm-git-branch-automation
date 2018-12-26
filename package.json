@@ -1,0 +1,23 @@
+{
+  "name": "npm-git-branch",
+  "version": "1.0.0",
+  "description": "To automate branch creation via npm command",
+  "main": "index.js",
+  "scripts": {
+    "createbranch": "assets/createBranch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niravmehta999/npm-git-branch-automation.git"
+  },
+  "keywords": [
+    "Automation",
+    "GIT"
+  ],
+  "author": "Nirav Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niravmehta999/npm-git-branch-automation/issues"
+  },
+  "homepage": "https://github.com/niravmehta999/npm-git-branch-automation#readme"
+}

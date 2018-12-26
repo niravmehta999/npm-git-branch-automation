@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -ex
+
+pwd;
+
+git checkout -b develop;
