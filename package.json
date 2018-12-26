@@ -4,7 +4,7 @@
   "description": "To automate branch creation via npm command",
   "main": "index.js",
   "scripts": {
-    "createbranch": "assets/createBranch",
+    "createbranch": "assets/createBranch"
   },
   "repository": {
     "type": "git",
